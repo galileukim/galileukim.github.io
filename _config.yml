@@ -4,7 +4,7 @@ theme: jekyll-theme-minimal
 title: Galileu Kim
 description: Personal website (demo)
 locale: en_US
-logo: # filename of a logo image that has been placed into your images directory
+logo: minimalism_origami.jpg
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
