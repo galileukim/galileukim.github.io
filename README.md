@@ -4,7 +4,3 @@ Hello, my name is Galileu Kim and I am currently a Ph.D. candidate at Princeton 
 
 Here is an image:
 ![](images/minimalism_origami.jpg)
-
-What about this one?
-
-![Jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
