@@ -1,6 +1,5 @@
 ---
-layout: page
-excerpt: "About Me..."
+layout: default
 ---
 
 # welcome:
