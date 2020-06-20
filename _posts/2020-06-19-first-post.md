@@ -7,4 +7,6 @@ comments: true
 category: blog
 ---
 
-Text for your post goes here.
+# Test-run
+
+This is but a test run.
