@@ -6,12 +6,11 @@ description: Personal website (demo)
 locale: en_US
 logo: minimalism_origami.jpg
 
-# Enter the following platform usernames if you would like for them to appear on your site.
-owner:
-  name: Galileu Kim
-  avatar: minimalism_origami.jpg
-  bio: "Political economist at Princeton University"
-  email: galileuk@princeton.edu
-  # twitter: laderast
-  linkedin: #username
-  github: galileukim
+texture:
+  title: Galileu Kim
+  tagline: Data scientist.
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    github:  galileukim
+    linkedIn: in/galileu-kim # format: locale/username
