@@ -5,6 +5,7 @@ texture:
   title: Galileu Kim
   tagline: Data scientist.
   date_format: "%b %-d, %Y"
+  style: black
 
   social_links:
     github:  galileukim
