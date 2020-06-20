@@ -1,6 +1,7 @@
+---
 layout: page
-title: "page: coding"
-permalink: /coding/
+title: coding
+---
 
 # coding
 
