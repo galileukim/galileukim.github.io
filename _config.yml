@@ -1,11 +1,6 @@
 remote_theme: thelehhman/texture
 # Site wide configuration
 
-title: Galileu Kim
-description: Personal website (demo)
-locale: en_US
-logo: minimalism_origami.jpg
-
 texture:
   title: Galileu Kim
   tagline: Data scientist.
