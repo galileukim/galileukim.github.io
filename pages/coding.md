@@ -6,4 +6,4 @@ layout: default
 
 note that this is a test.
 
-[back](./)
+[back](/)

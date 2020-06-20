@@ -4,9 +4,11 @@ layout: default
 
 # welcome:
 
-Hi, my name is Galileu Kim and I am currently a Ph.D. candidate in political science at Princeton University. My research focuses on the political economy of bureaucracy and public services, with a focus on municipalities in Brazil. You can find some of my research and codes [here](https://github.com/galileukim).
+Hi, my name is Galileu Kim and I am currently a Ph.D. candidate in political science at Princeton University. My research focuses on the political economy of bureaucracy and public services, with a focus on municipalities in Brazil. 
 
-Here is an image:
+You can find some of my research and codes [here](https://github.com/galileukim).
+
+Here is an image.
 ![](images/minimalism_origami.jpg)
 
 Here are links to my on-going projects.
