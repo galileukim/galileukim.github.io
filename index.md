@@ -9,6 +9,10 @@ Hi, my name is Galileu Kim and I am currently a Ph.D. candidate in political sci
 Here is an image:
 ![](images/minimalism_origami.jpg)
 
+Here are links to my on-going projects.
+
+- [Link to project](./pages/coding.html).
+
 ## Current projects:
 
 - Website Design
