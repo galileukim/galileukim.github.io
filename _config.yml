@@ -1,11 +1,9 @@
-remote_theme: thelehhman/texture
+remote_theme: jekyll-theme-minimal
 # Site wide configuration
 
-texture:
-  title: Galileu Kim
-  tagline: Data scientist.
-  date_format: "%b %-d, %Y"
-
-  social_links:
-    github:  galileukim
-    linkedIn: in/galileu-kim # format: locale/username
+title: Galileu Kim
+tagline: Data scientist.
+date_format: "%b %-d, %Y"
+social_links:
+  github:  galileukim
+  linkedIn: in/galileu-kim # format: locale/username
