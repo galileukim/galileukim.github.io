@@ -2,12 +2,12 @@
 layout: default
 ---
 
-# classes
+## classes
 
-## POL 345: Introduction to Quantitative Social Science
+### POL 345: Introduction to Quantitative Social Science
 Fall 2017
 
-## POL 230: Introduction to Comparative Politics
+### POL 230: Introduction to Comparative Politics
 Spring 2018
 
 ## POL 346: Applied Quantitative Analysis
