@@ -11,6 +11,7 @@ Fortunately, I am not alone: wonderful projects are expanding at [brazil.io](htt
 Below you will find some of the data I have collected and cleaned throughout my research. If you have any requests for additional data please do not hesitate to contact me!
 
 - Conversion table for IBGE-TSE municipal identifiers ([here](/data/cod_ibge_tse.csv)).
+- Campaign donations to politicians ([here](https://drive.google.com/file/d/10VGLknUIpxcBXIJ8P2XkVyScZrUgm_w0/view?usp=sharing))
 <!-- electoral data -->
 <!-- electoral identifiers -->
 <!-- campaign contributions -->
