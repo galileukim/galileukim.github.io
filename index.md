@@ -14,7 +14,7 @@ I hold a B.A. in political science and economics from University of Pennsylvania
 
 You can find my research projects and replication files [here](https://github.com/galileukim).
 
-# Working papers:
+## Working papers:
 
 - "Government through patronage: the bargain for education in decentralized Brazil".
 - "Are anti-corruption audits effective? Evidence from Brazil", with Romain Ferrali.
