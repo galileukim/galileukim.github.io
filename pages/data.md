@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## data
+
 Access to public data is indispensable for scientific research. However, this data is often in foreign languages, stranger formats and even more obscure encoding. In my personal research, have worked extensively to make Brazilian data more accessible for myself and fellow researchers.
 
 Fortunately, I am not alone: wonderful projects are expanding at [brazil.io](https://brasil.io/home/), (electionsBR)[http://electionsbr.com/], and the government official (dadosbr)[https://github.com/dadosgovbr].
