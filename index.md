@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# welcome!
+## welcome
 
 Hello, my name is Galileu Kim and I am a Ph.D. candidate in political science at Princeton University. My research focuses on the political economy of bureaucracy and public service delivery, with a substantive focus on municipal governments in Brazil. Methodologically, I combine techniques from data science, causal inference, on-the-ground fieldwork and formal theory to analyze how municipal governments can better serve their citizens.
 
@@ -14,7 +14,7 @@ I hold a B.A. in political science and economics from University of Pennsylvania
 
 You can find my research projects and replication files [here](https://github.com/galileukim).
 
-## Working papers:
+### working papers:
 
 - "Government through patronage: the bargain for education in decentralized Brazil".
 - "Are anti-corruption audits effective? Evidence from Brazil", with Romain Ferrali.
