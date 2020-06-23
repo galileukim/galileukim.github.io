@@ -4,4 +4,4 @@ layout: default
 
 ## contact
 
-you can find me at galileuk@princeton.edu.
+You can contact me at (galileuk@princeton.edu)[mailto:galileuk@princeton.edu].
