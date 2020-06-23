@@ -4,7 +4,7 @@ layout: default
 
 ## welcome
 
-!()[/images/headshot.png]
+![](/images/headshot.png)
 
 Hello, my name is Galileu Kim and I am a Ph.D. candidate in political science at Princeton University. My research focuses on the political economy of bureaucracy and public service delivery, with a substantive focus on municipal governments in Brazil. Methodologically, I combine techniques from data science, causal inference, on-the-ground fieldwork and formal theory to analyze how municipal governments can better serve their citizens.
 
