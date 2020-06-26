@@ -29,6 +29,7 @@ h1, h2, h3 {
 
 h1 {  
   color:#4B4338;
+  font-size:55px;
 }
 
 h2 {
@@ -43,11 +44,11 @@ h3, h4, h5, h6 {
 a {
   color:#3b3b3b;
   text-decoration:none;
-  font-size:55px;
+  // font-size:15px;
 }
 
 .view a {
-  font-size:18px;
+  font-size:15px;
 }
 
 a:hover, a:focus {
