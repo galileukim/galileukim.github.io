@@ -15,10 +15,3 @@ I am currently a data scientist for EloGroup, where I have partnered with Brazil
 I hold a B.A. *summa cum laude* in political science and economics from the University of Pennsylvania.
 
 You can find my research projects and replication files [here](https://github.com/galileukim).
-
-### working papers:
-
-- "Government through patronage: the bargain for education in decentralized Brazil".
-- "Are anti-corruption audits effective? Evidence from Brazil", with Romain Ferrali.
-- "Representation failure", with Matias Iaryczower and Sergio Montero.
-- "Corporate Interests and Campaign Donations in Brazilian Municipalities", with James Mao.
