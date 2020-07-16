@@ -12,7 +12,6 @@ Below you will find some of the data I have collected and cleaned throughout my 
 - Campaign donations to politicians ([here](https://drive.google.com/file/d/10VGLknUIpxcBXIJ8P2XkVyScZrUgm_w0/view?usp=sharing))
 <!-- electoral data -->
 <!-- electoral identifiers -->
-<!-- campaign contributions -->
 <!-- prova brasil -->
 <!-- census data: 2000 and 2010 -->
 
