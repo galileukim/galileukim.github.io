@@ -8,9 +8,9 @@ My research agenda focuses on the political economy of bureaucracies in developi
 
 ### papers:
 
+- ["Representation failure"](/files/papers/representation_failure.pdf), with Matias Iaryczower and Sergio Montero (*R&R at AJPS*)
 - ["Government through patronage: bargaining for education in decentralized Brazil"](/files/papers/patronage_education.pdf).
 - ["Are anti-corruption audits effective? Evidence from Brazil"](/files/papers/corrupt_audit.pdf), with Romain Ferrali.
-- ["Representation failure"](/files/papers/representation_failure.pdf), with Matias Iaryczower and Sergio Montero (*R&R at AJPS*)
 - ["Corporate Interests and Campaign Donations in Brazilian Municipalities"](/files/papers/campaign_portfolio.pdf), with James Mao.
 
 ### coverage:
