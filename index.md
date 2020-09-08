@@ -12,6 +12,6 @@ At Princeton, I am a member of the Research Program on Political Economy, Brazil
 
 I am currently a data scientist for EloGroup, where I have partnered with Brazil's federal government to detect frauds in the federal bureaucracy payroll and improve the Brazilian national employment system (SINE). As a research affiliate at the *Instituto del Perú*, I authored a paper on technological diffusion in Peru and collaborated on a comparative study on the political and economic development in the Andes.
 
-I hold a B.A. *summa cum laude* in political science and economics from the University of Pennsylvania.
+I hold a B.A. in political science and economics from the University of Pennsylvania, where I graduated *summa cum laude*, Phi Beta Kappa.
 
-You can find my research projects and replication files [here](https://github.com/galileukim).
+You can find my research projects and replication files [here](https://github.com/galileukim). You can also access my LinkedIn page [here](https://www.linkedin.com/in/galileu-kim-232035187/).
