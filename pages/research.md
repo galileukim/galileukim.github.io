@@ -15,4 +15,4 @@ My research agenda focuses on the political economy of bureaucracies in developi
 
 ### coverage:
 
-- ["Technolical diffusion in Peru: causes and tendencies from 1994-2012"](http://cies.org.pe/sites/default/files/files/articulos/economiaysociedad/mt5-innovacion_cenagro_2-7-15.pdf)
+- ["Technological diffusion in Peru: causes and tendencies from 1994-2012"](http://cies.org.pe/sites/default/files/files/articulos/economiaysociedad/mt5-innovacion_cenagro_2-7-15.pdf)
