@@ -5,7 +5,7 @@ layout: default
 
 ![](/images/headshot.jpg)
 
-Hello, my name is Galileu Kim and I am a data science consultant at the World Bank. I am a member of the [Bureaucracy Lab](https://www.worldbank.org/en/research/dime/brief/Bureaucracy-Lab) and [DE JURE](https://thedocs.worldbank.org/en/doc/923891592406548876-0050022020/original/DEJUREBrief.pdf) teams at the Department of Impact Evaluation (DIME), where I partner with government counterparts to leverage data science for strengthening evidence-based policy-making.
+Hello, my name is Galileu Kim and I am a data science consultant at the World Bank. I am a member of the [Bureaucracy Lab](https://www.worldbank.org/en/research/dime/brief/Bureaucracy-Lab) and [DE JURE](https://thedocs.worldbank.org/en/doc/923891592406548876-0050022020/original/DEJUREBrief.pdf) teams at Development and Impact Evaluation (DIME), where I partner with government counterparts to leverage data science for strengthening evidence-based policy-making.
 
 My research focuses on the political economy of bureaucracy and public service delivery, with a substantive focus on municipal governments in Brazil. Methodologically, I combine techniques from data science, causal inference, on-the-ground fieldwork and formal theory to analyze how municipal governments can better serve their citizens.
 
