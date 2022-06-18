@@ -10,7 +10,7 @@ My research agenda focuses on the political economy of bureaucracies in developi
 
 - ["Representation failure"](https://www.nber.org/papers/w29965), with [Matias Iaryczower](https://scholar.princeton.edu/miaryc/home) and [Sergio Montero](https://www.sas.rochester.edu/psc/smontero/). *NBER Working Papers*
 - ["Government through patronage: bargaining for education in decentralized Brazil"](/files/papers/patronage_education.pdf).
-- ["Are anti-corruption audits effective? Evidence from Brazil"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3499117), with Romain Ferrali.
+- ["Are anti-corruption audits effective? Evidence from Brazil"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3499117), with [Romain Ferrali](https://rferrali.net/) and [Julieta Peveri](https://sites.google.com/view/julietapeveri).
 - ["Corporate Interests and Campaign Donations in Brazilian Municipalities"](/files/papers/campaign_portfolio.pdf), with James Mao.
 
 ### policy reports:
