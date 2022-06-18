@@ -11,4 +11,4 @@ My research focuses on the political economy of bureaucracy, with a substantativ
 
 I hold a Ph.D. in Political Science from Princeton University, and a B.A. in Political Science and Economics from the University of Pennsylvania.
 
-You can find my research projects and replication files [here](https://github.com/galileukim). You can also access my LinkedIn page [here](https://www.linkedin.com/in/galileu-kim-232035187/).
+You can find my research projects and replication files [here](https://github.com/galileukim).
