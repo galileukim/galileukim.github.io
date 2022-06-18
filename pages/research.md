@@ -22,4 +22,4 @@ My research agenda focuses on the political economy of bureaucracies in developi
 
 - ["Government through Patronage (Brazil Lab)"](https://brazillab.princeton.edu/news/brazil-lab-inaugurates-works-progress-forum)
 - ["Technological diffusion in Peru: causes and tendencies from 1994-2012"](http://cies.org.pe/sites/default/files/files/articulos/economiaysociedad/mt5-innovacion_cenagro_2-7-15.pdf)
-- ["Corrupção: com a palavra, os servidores públicos"](https://www1.folha.uol.com.br/colunas/pablo-acosta/2021/12/corrupcao-com-a-palavra-os-servidores-publicos.shtml), with [Daniel Ortega Nieto](https://blogs.worldbank.org/team/daniel-ortega-nieto)and [Pablo Acosta](https://www1.folha.uol.com.br/colunas/pablo-acosta/).
+- ["Corrupção: com a palavra, os servidores públicos"](https://www1.folha.uol.com.br/colunas/pablo-acosta/2021/12/corrupcao-com-a-palavra-os-servidores-publicos.shtml), with [Daniel Ortega Nieto](https://blogs.worldbank.org/team/daniel-ortega-nieto) and [Pablo Acosta](https://www1.folha.uol.com.br/colunas/pablo-acosta/).
